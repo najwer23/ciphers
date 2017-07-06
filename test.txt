@@ -1,0 +1,19 @@
+1. Into the wild (A1Z26)
+S: 9-14-20-15 20-8-5 23-9-12-4
+
+2. Begin Again (Caesar, przesuniecie 3)
+S: EHJLQ DJDLQ
+
+3. Manchester by the sea (Caesar, przesuniecie 13)
+S: ZNAPURFGRE OL GUR FRN
+
+4. Kubo and the two strings (AtBash)
+S: PFYL ZMW GSV GDL HGIRMTH
+
+5. Book of life (Bacona)
+S: aaaababbababbababaab abbabaabab ababaabaaaaababaabaa
+
+6. Nightcrawler (Vigenere, key: movies)
+S: ZWBPXUDORTIJ
+   
+
